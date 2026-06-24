@@ -37,7 +37,7 @@
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand%20Light%20Skin%20Tone.png" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand%20Light%20Skin%20Tone.png" width="28" /></picture> About me
+## 👋 About me
 
 ```ts
 const samuel = {
@@ -62,7 +62,7 @@ const samuel = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
